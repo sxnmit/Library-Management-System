@@ -1,11 +1,11 @@
 Hey there, this is a work-in-progress project I'm working on for a Library Management System that has
 business and client-side functionality. There are numerous concepts incorporated into this website
-such as RESTful API request, JWT Authentication, and more. The project is doing using the MERN stack
-as well a second database storing different data using SQL and Sequelize. There are many features
+such as RESTful API requests, JWT Authentication, and more. The project is done using the MERN stack
+as well as a second database storing different data using SQL and Sequelize. There are many features
 yet to be added such as email verification, account-setup authentication, and other bugs that need
 fixing.
 
-Here are some picture of what the website includes as of now:
+Here are some pictures of what the website includes as of now:
 
 <img width="1000" alt="Screenshot 2024-07-23 at 2 27 10 PM" src="https://github.com/user-attachments/assets/92a05512-f9cc-4b80-b8fd-c7f996fb4b87">
 <img width="1000" alt="Screenshot 2024-07-23 at 2 32 24 PM" src="https://github.com/user-attachments/assets/6d2e6f11-bdea-43dc-9918-fe8c26a37cd1">
