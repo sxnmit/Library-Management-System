@@ -17,7 +17,7 @@ const app = express();
 
 
 //mongoDB
-const usersDB = 'mongodb+srv://sxnmit:Sunny123$@cluster0.e7mnhbm.mongodb.net/usersDB?retryWrites=true&w=majority&appName=Cluster0'
+const usersDB = 'mongodb+srv://sxnmit:{password}cluster0.e7mnhbm.mongodb.net/usersDB?retryWrites=true&w=majority&appName=Cluster0'
 
 
 mongoose
